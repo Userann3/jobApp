@@ -1,0 +1,65 @@
+/* :root {
+    --primary-color: #8a63f2;
+    --secondary-color: #6a4bcc;
+    --dark-bg: #1a1a1a;
+    --darker-bg: #2c2c2c;
+    --border-light: rgba(255, 255, 255, 0.2);
+    
+    --gradient-primary: linear-gradient(to right, #8a63f2, #6a4bcc);
+    --gradient-hover: linear-gradient(to right, #6a4bcc, #8a63f2);
+  } */
+  
+
+
+  :root {
+    --bg-primary: #0d121e;  /* Main background */
+    --bg-secondary: #1b233d;  /* Card background */
+    --bg-accent: #131a2b;  /* Icon background */
+    --text-primary: #ffffff;  /* Main text color */
+    --text-secondary: #cbd5e1;  /* Light text */
+    --text-accent: #06b6d4;  /* Cyan color (used for icons and highlights) */
+    --border-color: #4b5563;  /* Border color */
+}
+
+
+/* :root {
+    --text-color: #ffffff;
+    --subtext-color: #d1d5db;
+    --primary-color: #5A67D8; 
+    --primary-hover: #4C51BF;
+    --button-bg: #6B46C1; 
+    --button-hover: #553C9A;
+    --button-text: #ffffff;
+    --overlay-bg: rgba(255, 255, 255, 0.15);
+    --input-bg: rgba(255, 255, 255, 0.2);
+    --input-focus: rgba(255, 255, 255, 0.3);
+} */
+
+ /* :root {
+    --text-color: #E5E7EB;
+    --subtext-color: #9CA3AF;
+    --primary-color: #1E90FF; 
+    --primary-hover: #1C7CD6;
+    --button-bg: #374151; 
+    --button-hover: #1F2937;
+    --button-text: #ffffff;
+    --overlay-bg: rgba(0, 0, 0, 0.7);
+    --input-bg: rgba(55, 65, 81, 0.5);
+    --input-focus: rgba(107, 114, 128, 0.5);
+} */
+
+
+
+
+
+  /* Optional: Dark Mode */
+  /* [data-theme="dark"] {
+    --primary-color: #181818;
+    --secondary-color: #ff007f;
+    --background-color: #121212;
+    --button-color: #ff4da6;
+    --button-hover-color: #ff007f;
+  }
+   */
+
+   
